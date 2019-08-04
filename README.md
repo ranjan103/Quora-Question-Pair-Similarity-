@@ -59,4 +59,4 @@ Metric(s):
   
 # 3. Exploratory Data Analysis
 
-# 4. Applying ML Models to compute the goal :)
+# 4. Applying ML Models to achieve the goal :)
