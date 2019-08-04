@@ -58,3 +58,5 @@ Metric(s):
   We build train and test by randomly splitting in the ratio of 70:30 or 80:20 whatever we choose as we have sufficient points to work     with.
   
 # 3. Exploratory Data Analysis
+
+# 4. Applying ML Models to compute the goal :)
